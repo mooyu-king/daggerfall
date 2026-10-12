@@ -1,0 +1,1 @@
+const t=new URL(""+new URL("dfo-online-DzF8RPkZ.png",import.meta.url).href,import.meta.url).href,r="DFO Online";function a(n=document){const e=n.createElement("img");return e.src=t,e.alt=r,e.className="brand-logo",e.width=526,e.height=322,e.draggable=!1,e}export{a as b};

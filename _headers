@@ -1,0 +1,13 @@
+/game/*
+  X-Robots-Tag: noindex
+  Referrer-Policy: strict-origin-when-cross-origin
+  Content-Security-Policy: frame-ancestors 'self'
+
+/game/assets/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/game/play/
+  Cache-Control: no-cache
+
+/game/community-build.json
+  Cache-Control: no-cache
