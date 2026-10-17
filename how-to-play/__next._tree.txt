@@ -1,4 +1,4 @@
-:HL["/_next/static/css/34799e739022e721.css","style"]
+:HL["/_next/static/css/13abb25a3091450b.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":{"n":"slug","t":"d","k":"how-to-play","s":["_not-found","_global-error","play","robots.txt","sitemap.xml","status"]},"h":65632,"c":"$Q2"}]]
-0:{"b":"x6OLV0U8Kaug2-xdGoMD8","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"iLs7r4xU3o7QDZV5P3xw8","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
