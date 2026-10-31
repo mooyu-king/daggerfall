@@ -1,0 +1,5 @@
+:HL["/_next/static/css/b3a598eeae049ad7.css","style"]
+:HL["/_next/static/css/bb9a80e161bfab7a.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"temple-of-the-jackal","h":64,"c":"$Q2"}]]
+0:{"b":"A9liFonY5G2nVJWHcG7Jz","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
