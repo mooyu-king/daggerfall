@@ -4,10 +4,6 @@
 
 **[Visit daggerfall.online →](https://daggerfall.online/)**
 
-[English](#english) · [繁體中文](#繁體中文)
-
-## English
-
 ### Your next journey through the Iliac Bay starts here
 
 **Daggerfall Online** is an independent community website for players who want to revisit *The Elder Scrolls II: Daggerfall* through a browser. Explore the browser multiplayer, prepare your original game files, and find clear guidance on browser play and the DFO Online multiplayer project.
@@ -43,45 +39,39 @@ Bring your own original game files; they are not included. The browser client re
 
 **[Visit daggerfall.online and explore the client →](https://daggerfall.online/)**
 
-## 繁體中文
 
-### 從這裡開始，重返伊利亞克灣
+## Prepare for the right experience
 
-**Daggerfall Online** 是面向《上古卷軸 II：匕首雨》玩家的獨立社群網站，提供瀏覽器多人游戏、原版遊戲檔案準備說明，以及 DFO Online 多人專案與各版本的入門指南。
+Daggerfall has several related versions, and it helps to know which one a guide is discussing. Classic Daggerfall, Daggerfall Unity and the DFO Online browser project share a setting but should not be treated as identical clients. A screenshot from a related version is useful illustration, not proof of what a live browser session will look like.
 
-首頁前方設有寬螢幕遊戲框，支援全螢幕與展開檢視。需要協助時，可以查看檔案匯入、多人遊玩和疑難排解說明。
+Read the version guide before transferring expectations from another edition. Controls, available systems and the way a session is started may differ. If you are returning after a long break, the beginner guide provides a more practical route into play than trying to remember every detail from a previous desktop experience.
 
-[開啟多人游戏](https://daggerfall.online/#game-player) · [閱讀入門指南](https://daggerfall.online/how-to-play/)
+## Understand the original-data requirement
 
-![原版匕首雨的遊戲場景，作為經典版本參考，並非本站客戶端實測畫面](media/classic-daggerfall.webp)
+The website does not include the original game data for you. Its game-file guide explains the role of the ARENA2 files and the preparation expected of a player. Follow that guide with your own appropriate files rather than assuming that opening the page is enough to provide every required asset. Keep your original files available while you work through the instructions.
 
-*原版遊戲參考圖片：認識《匕首雨》的世界，以及這款經典角色扮演遊戲的冒險體驗。*
+File selection is a player-facing step, not a reason to change browser security settings blindly. If the client does not recognize the material you selected, consult the troubleshooting information and check what the guide actually asks for. Avoid repeatedly replacing unrelated files in the hope that an unclear error will disappear.
 
-### 找到適合你的入口
+## Begin with orientation
 
-| 想做的事情 | 對應入口 |
-| --- | --- |
-| 體驗瀏覽器客戶端 | [多人游戏](https://daggerfall.online/#game-player) |
-| 取得並匯入自己的 ARENA2 檔案 | [遊戲檔案設定](https://daggerfall.online/arena2-setup/) |
-| 了解多人玩法與目前開放狀態 | [多人指南](https://daggerfall.online/multiplayer/) |
-| 比較原版、Daggerfall Unity 與 DFO Online | [版本介紹](https://daggerfall.online/versions/) |
-| 處理載入、操作與存檔問題 | [疑難排解](https://daggerfall.online/troubleshooting/) |
-| 查看目前可用的功能 | [服務狀態](https://daggerfall.online/status/) |
+Once you reach the game, spend a little time learning the controls and locating the map. Movement, interaction and navigation are easier to understand when you are not simultaneously trying to coordinate a group. The beginner material provides a starting point for those tasks, including the relationship between an early solo area and later online play.
 
-![Daggerfall Unity 的城鎮街道，作為相關版本參考](media/unity-dungeon.webp)
+The opening dungeon is not the same as a shared meeting place. If you are arranging to play with friends, follow the multiplayer guide's sequence and agree on where you expect to meet. A character being visible on your own screen does not by itself establish that everyone has joined the same session or reached the same location.
 
-*Daggerfall Unity 參考圖片，並非本站已開放多人連線的實測截圖。*
+## Coordinate a group deliberately
 
-### 開始之前
+The multiplayer guide covers online characters, parties and meeting outside the starting dungeon. Read the relevant section together before trying to diagnose a missing party member. Compare the intended location and the state each person has reached. A simple shared plan often prevents confusion that could otherwise look like a connection problem.
 
-請自行準備原版遊戲檔案，本站不附帶原版資料。瀏覽器客戶端需要 WebGL2；客戶端包含觸控操作，实际体验取决于设备和浏览器。
+Availability can change, so consult the service-status page when something unexpected happens. A guide describes the intended workflow; it is not a guarantee that every service is currently reachable from every network. If the client or a connection fails, record the visible message and the action that preceded it rather than assuming your character or files are permanently lost.
 
-**多人版可以联机游玩。** 跟随[图文多人指南](https://daggerfall.online/multiplayer/)找到 Online、新建在线角色、邀请组队并在室外会合。[新手指南](https://daggerfall.online/beginner-guide/)提供下载、导入、移动和地图说明。
+## Take care with browser sessions
 
-**[前往 daggerfall.online，探索客戶端 →](https://daggerfall.online/)**
+The browser client requires WebGL2 and is affected by device capability. A page loading successfully does not guarantee that a demanding game scene will run comfortably on every device. Touch controls are included, but a small screen and a desktop pointing device provide different experiences. Choose a setup where you can read the game and reach the controls without unnecessary strain.
 
----
+Before leaving a session, use the game's documented save workflow and check the feedback it provides. Do not assume that closing a tab is equivalent to saving. The troubleshooting guide is the appropriate place to investigate save questions, especially when changing browsers or devices. Keep important original material outside temporary browser state.
 
-An independent, unofficial community project based on [DFO Online](https://github.com/Lattymoy/daggerfall-js-source) and [Daggerfall Unity](https://www.dfworkshop.net/). Not affiliated with Bethesda, ZeniMax, or the upstream development teams. Reference images: [original Daggerfall](https://store.steampowered.com/app/1812390/) and [Daggerfall Unity](https://www.dfworkshop.net/daggerfall-unity-0-10-28/). See [credits](https://daggerfall.online/credits/).
+## Use help pages as a map
 
-本站為獨立、非官方社群專案，與 Bethesda、ZeniMax 或上游開發團隊無隸屬關係。品牌與參考圖片權利歸各自權利人所有，詳見[鳴謝與來源](https://daggerfall.online/credits/)。
+The website separates controls, game-file preparation, version comparison, multiplayer guidance and troubleshooting so that you can go directly to the relevant question. If you are unsure where a failure occurs, retrace the sequence: opening the client, providing the required files, reaching a character and entering the intended activity. That description is useful when asking for help.
+
+Daggerfall Online is an independent community destination. It does not represent Bethesda, ZeniMax or the upstream development teams. The credits page explains related work and image sources. Reference artwork should be understood in that context, and neither a logo nor an illustrative scene should be mistaken for evidence of a currently active multiplayer session.
